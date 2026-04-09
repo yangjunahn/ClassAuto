@@ -1,0 +1,4 @@
+# Large local datasets (not part of this repo)
+data_odometry_gray.zip
+data_odometry_velodyne.zip
+dataset/
